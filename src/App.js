@@ -19,7 +19,7 @@ const ColorPicker = () => {
 
   return (
     <div className="color-picker">
-      <h1>Color Picker</h1>
+      <h1>React Color Picker Using Hooks</h1>
       <div className="img-block">
         <div
           className="color-block"
